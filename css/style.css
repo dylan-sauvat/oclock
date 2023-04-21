@@ -1,0 +1,185 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 50px;
+  background-color: #101010;
+  color: #fff;
+}
+header a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 10px;
+}
+header a:hover {
+  background-color: #555;
+}
+.active {
+  background-color: #555;
+}
+
+h1 {
+  position: relative;
+  align-items: center;
+  margin: 50px;
+
+}
+
+body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+      }
+      header {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        height: 50px;
+        background-color: #333;
+        color: #fff;
+      }
+      header a {
+        text-decoration: none;
+        color: #fff;
+        font-size: 20px;
+        font-weight: bold;
+        text-transform: uppercase;
+        padding: 10px;
+      }
+      header a:hover {
+        background-color: #555;
+      }
+      .active {
+        background-color: #555;
+      }
+
+ #clock {
+        font-size: 10em;
+        text-align: center;
+      }
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 50px;
+  background-color: #333;
+  color: #fff;
+}
+header a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 10px;
+}
+header a:hover {
+  background-color: #555;
+}
+.active {
+  background-color: #555;
+}
+
+.timer-container {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .timer-label {
+    font-size: 24px;
+    color : #fff;
+    margin-bottom: 10px;
+  }
+  
+  .timer-value {
+    font-size: 48px;
+    color : #fff;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .timer-controls {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .timer-controls button {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 0 10px;
+  }
+  
+  .timer-input {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .timer-input label {
+    font-size: 18px;
+    margin-right: 10px;
+  }
+  
+  .timer-input input {
+    font-size: 18px;
+    padding: 10px;
+    margin-right: 10px;
+    width: 150px;
+  }
+  
+  .timer-input button {
+    font-size: 18px;
+    padding: 10px 20px;
+  }
+  .chronometer {
+    text-align: center;
+  }
+  
+  #display {
+    font-size: 4rem;
+    margin: 1rem 0;
+  }
+  
+  button {
+    font-size: 1.5rem;
+    padding: 0.5rem 1rem;
+    margin: 0.5rem;
+    border-radius: 5px;
+    border: none;
+    background-color: #008CBA;
+    color: white;
+  }
+  
+  button:hover {
+    background-color: #006B8F;
+    cursor: pointer;
+  }
+  
+  ul {
+    margin-top: 1rem;
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    font-size: 1.2rem;
+    margin: 0.5rem 0;
+  }
+
+  
+  
+ 
+  
